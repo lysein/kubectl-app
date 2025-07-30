@@ -1,0 +1,28 @@
+# FastAPI backend dependencies
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+python-multipart==0.0.6
+
+# Authentication
+msal==1.25.0
+
+# Azure SDK dependencies
+azure-identity==1.15.0
+azure-mgmt-containerservice==21.1.0
+
+# Kubernetes client
+kubernetes==28.1.0
+
+# AI/OpenAI integration
+openai==1.3.0
+
+# Streamlit frontend dependencies
+streamlit==1.28.1
+streamlit-authenticator==0.2.3
+
+# HTTP requests
+requests==2.31.0
+
+# Standard library dependencies (usually included but listed for clarity)
+os-sys==2.1.4
